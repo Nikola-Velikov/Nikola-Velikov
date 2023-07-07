@@ -23,10 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nikola_vvelikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikola_vvelikov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikola velikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola velikov" height="30" width="40" /></a>
-<a href="https://fb.com/nikola velikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikola velikov" height="30" width="40" /></a>
-<a href="https://instagram.com/nikol_velikov__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_velikov__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cookit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookit" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nikola-velikov-88368b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola velikov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nikola.velikov.1671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikola velikov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nikola_velikov__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_velikov__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCiGh1cZLW6-27Y3TvSYR_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookit" height="30" width="40" /></a>
 <a href="https://discord.gg/#4774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4774" height="30" width="40" /></a>
 </p>
