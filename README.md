@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Law clinic for the University of Ruse**
 
-- 🌱 I’m currently learning **Reactjs and Ms SQL**
+- 🌱 I’m currently learning **Reactjs and MS SQL**
 
 - 👨‍💻 All of my projects are available at [https://nikola-velikov.com](https://nikola-velikov.com)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nikola-velikov-88368b282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola velikov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikola-velikov-88368b282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola velikov" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nikola.velikov.1671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikola velikov" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nikola_velikov__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikola_velikov__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCCiGh1cZLW6-27Y3TvSYR_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookit" height="30" width="40" /></a>
