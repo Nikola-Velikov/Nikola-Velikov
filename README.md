@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikola Velikov</h1>
 <h3 align="center">A passionate full-stack developer and web designer from Bulgaria</h3>
 
-- 🔭 I’m currently working on **Law clinic for the University of Ruse**
+- 🔭 I’m currently working on **Law clinic for the University of Ruse** and **Ranking candidatesin universities**
 
-- 🌱 I’m currently learning **ReactJs and MS SQL**
+- 🌱 I’m currently learning **Python advanced in SoftUni**
 
 - 👨‍💻 All of my projects are available at [https://nikola-velikov.com](https://nikola-velikov.com)
 
