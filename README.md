@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Law clinic for the University of Ruse**
 
-- 🌱 I’m currently learning **Reactjs and MS SQL**
+- 🌱 I’m currently learning **ReactJs and MS SQL**
 
 - 👨‍💻 All of my projects are available at [https://nikola-velikov.com](https://nikola-velikov.com)
 
