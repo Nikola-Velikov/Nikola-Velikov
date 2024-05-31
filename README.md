@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Law clinic for the University of Ruse** and **Ranking candidatesin universities**
 
-- 🌱 I’m currently learning **Python advanced in SoftUni**
+- 🌱 I’m currently learning **PostgreSQL in SoftUni**
 
 - 👨‍💻 All of my projects are available at [https://nikola-velikov.com](https://nikola-velikov.com)
 
